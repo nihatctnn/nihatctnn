@@ -1,16 +1,38 @@
-### Hi there 👋
+<img src=https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif align="right" width="400" height="250">
 
-<!--
-**nihatctnn/nihatctnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Nihat :blush:
 
-Here are some ideas to get you started:
+# Front End Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “ The secret to progress is getting started.” - Mark Twain
+
+### Reach out to me
+
+[<img width="22" src="https://camo.githubusercontent.com/1b6fb1598834c8c50c5b7580c9a708ae26fe4dfb6cbcd25c626437c2a32350ed/68747470733a2f2f756e706b672e636f6d2f73696d706c652d69636f6e734076362f69636f6e732f6c696e6b6564696e2e737667" align="left" data-canonical-src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" style="max-width: 100%;">][linkedin]
+
+<br />
+
+### Tech I Use
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="25" height="25" style="max-width: 100%;">
+
+<br />
+
+<details>
+<summary>:bulb: GitHub Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=nihatctnn&show_icons=true&theme=tokyonight">
+</details>
+
+
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</details>
+
+[linkedin]: https://www.linkedin.com/in/nihat-%C3%A7etin-468b92188/
