@@ -27,7 +27,7 @@
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatctnn&layout=compact">
 </details>
 
 [linkedin]: https://www.linkedin.com/in/nihat-%C3%A7etin-468b92188/
