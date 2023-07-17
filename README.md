@@ -4,7 +4,7 @@
 
 # Front End Web Developer
 
-> “ The secret to progress is getting started.” - Mark Twain
+> "STEP BY STEP... DAY BY DAY... TOWARDS THE GOAL"
 
 ### Reach out to me
 
