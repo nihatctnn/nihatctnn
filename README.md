@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Nihat :blush:
 
-# Front End Web Developer
+# Web Developer
 
 > "STEP BY STEP... DAY BY DAY... TOWARDS THE GOAL"
 
