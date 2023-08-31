@@ -4,8 +4,6 @@
 
 # Web Developer
 
-> "STEP BY STEP... DAY BY DAY... TOWARDS THE GOAL"
-
 ### Reach out to me
 
 [<img width="22" src="https://camo.githubusercontent.com/1b6fb1598834c8c50c5b7580c9a708ae26fe4dfb6cbcd25c626437c2a32350ed/68747470733a2f2f756e706b672e636f6d2f73696d706c652d69636f6e734076362f69636f6e732f6c696e6b6564696e2e737667" align="left" data-canonical-src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" style="max-width: 100%;">][linkedin]
