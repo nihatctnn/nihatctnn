@@ -4,12 +4,6 @@
 
 # Web Developer
 
-### Reach out to me
-
-[<img width="22" src="https://camo.githubusercontent.com/1b6fb1598834c8c50c5b7580c9a708ae26fe4dfb6cbcd25c626437c2a32350ed/68747470733a2f2f756e706b672e636f6d2f73696d706c652d69636f6e734076362f69636f6e732f6c696e6b6564696e2e737667" align="left" data-canonical-src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" style="max-width: 100%;">][linkedin]
-
-<br />
-
 ### The Technologies & Tools I Use
 
 <img src=  "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="60" height="50" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width="45" height="45"> <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="45" height="45"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="45" height="45" style="max-width: 100%;">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="45" height="45" style="max-width: 100%;">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="45" height="45" style="max-width: 100%;">
