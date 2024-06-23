@@ -17,16 +17,17 @@
 
 <br />
 
-<!--
-<details>
-<summary>:bulb: GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=nihatctnn&show_icons=true&theme=tokyonight">
-</details>
--->
-
 <details>
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatctnn&layout=compact">
 </details>
 
 [linkedin]: https://www.linkedin.com/in/nihat-%C3%A7etin-468b92188/
+
+
+<!--
+<details>
+<summary>:bulb: GitHub Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=nihatctnn&show_icons=true&theme=tokyonight">
+</details>
+-->
