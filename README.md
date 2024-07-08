@@ -12,8 +12,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="55" height="55" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="55" height="55" style="max-width: 100%;">
   <img src="https://github.com/nihatctnn/nihatctnn/assets/96945187/ea2a8bf1-0b9f-45aa-8819-e956b309f7f7" width="100" height="55" style="max-width: 100%;">
-  <img src=  "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="65" height="60" style="max-width: 100%;">
-  <img src=  "https://github.com/nihatctnn/nihatctnn/assets/96945187/351a3118-92de-4a16-a44f-1a5f1eb44c47" width="100" height="50" style="max-width: 100%;">
 
 <br />
 
