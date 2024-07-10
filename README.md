@@ -10,22 +10,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="45" height="45" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="45" height="45" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="55" height="55" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="55" height="55" style="max-width: 100%;">
   <img src="https://github.com/nihatctnn/nihatctnn/assets/96945187/ea2a8bf1-0b9f-45aa-8819-e956b309f7f7" width="100" height="55" style="max-width: 100%;">
 
 <br />
 
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatctnn&layout=compact">
-</details>
 
 [linkedin]: https://www.linkedin.com/in/nihat-%C3%A7etin-468b92188/
-
-
-<!--
-<details>
-<summary>:bulb: GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=nihatctnn&show_icons=true&theme=tokyonight">
-</details>
--->
