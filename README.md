@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Nihat :blush:
 
-# Web Developer
+# Jr. Software Developer
 
 ### The Technologies & Tools I Use
 
